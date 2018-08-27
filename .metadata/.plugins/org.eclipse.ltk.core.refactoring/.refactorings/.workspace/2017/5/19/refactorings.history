@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;org.eclipse.ui.examples.multipageeditor&apos;" deleteContents="true" description="Delete resource &apos;org.eclipse.ui.examples.multipageeditor&apos;" element1="/org.eclipse.ui.examples.multipageeditor" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1494445722233"/>
+</session>

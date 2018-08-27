@@ -1,0 +1,14 @@
+2018-07-19 11:21:03,326 [main] ERROR log4J.Log4J - this is Errorlevel log
+2018-07-19 11:21:03,329 [main] WARN log4J.Log4J - warning log
+2018-07-19 11:56:47,115 [main] ERROR log4J.Log4J - this is Errorlevel log
+2018-07-19 11:56:47,118 [main] WARN log4J.Log4J - warning log
+2018-07-19 13:29:55,757 [main] ERROR log4J.Log4J - this is Errorlevel log
+2018-07-19 13:29:55,761 [main] WARN log4J.Log4J - warning log
+2018-07-19 13:44:51,263 [main] ERROR log4J.Log4J - this is Errorlevel log
+2018-07-19 13:44:51,266 [main] WARN log4J.Log4J - warning log
+2018-07-19 13:45:24,765 [main] ERROR log4J.Log4J - this is Errorlevel log
+2018-07-19 13:45:24,770 [main] WARN log4J.Log4J - warning log
+2018-07-19 13:46:12,298 [main] ERROR log4J.Log4J - this is Errorlevel log
+2018-07-19 13:46:12,301 [main] WARN log4J.Log4J - warning log
+2018-07-19 13:54:33,714 [main] ERROR log4J.Log4J - this is Errorlevel log
+2018-07-19 13:54:33,717 [main] WARN log4J.Log4J - warning log

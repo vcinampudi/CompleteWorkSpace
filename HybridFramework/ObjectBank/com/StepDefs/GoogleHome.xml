@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Objects>
+	<Object name="SearchField" type="Input Text Box" >
+		<property name="xpath" value="//input[@id='lst-ib']" />
+	</Object>
+	<Object name="SearchButton" type="Input Button" >
+		<property name="xpath" value="//button[@type='submit']" />
+	</Object>
+</Objects>
